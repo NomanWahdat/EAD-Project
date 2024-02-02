@@ -36,3 +36,7 @@ https://www.html5rocks.com/en/tutorials/workers/basics/
 
 Web workers in JavaScript and when to use them: https://benestudio.co/web-workers-
 in-javascript-and-when-to-use-them/
+
+
+Name: Noman
+Roll.No: 2021-CS-162
