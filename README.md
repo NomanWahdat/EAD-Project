@@ -27,7 +27,7 @@ How to Use:
 Explore the intersection of computational power and user-centric design with the Data Processing Application, where the utilization of Web Workers transforms complex calculations into a seamless and efficient experience.
 
  Instructions on how to run the project locally:
-  Clone the Repository:  Open the Project in a Code Editor: Open the project folder in your preferred code editor (e.g., Visual Studio Code, Atom, Sublime Text). *Install Dependencies (if any): Check if there are any dependencies listed in the project and install them. Use the command: npm install *Run the Application Locally: e.g., Visual Studio Code, Atom, Sublime Text
+  Clone the Repository: https://github.com/NomanWahdat/EAD-Project.git  Open the Project in a Code Editor: Open the project folder in your preferred code editor (e.g., Visual Studio Code, Atom, Sublime Text). *Install Dependencies (if any): Check if there are any dependencies listed in the project and install them. Use the command: npm install *Run the Application Locally: e.g., Visual Studio Code, Atom, Sublime Text
 
 Resources:
 
